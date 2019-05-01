@@ -1,0 +1,9 @@
+Package: com.ryannair05.hidelabels12
+Name: HideLabels12
+Depends: mobilesubstrate
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Hide labels on iOS 12
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks updated for arm64e
